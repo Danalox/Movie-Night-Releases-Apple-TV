@@ -1,5 +1,5 @@
 # Movie-Night-Releases-Apple-TV
-Movie Night Releases for Apple TV
+Movie Night Web app
 https://movienight.is/
 
 Sideloadly repo URL
