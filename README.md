@@ -11,5 +11,10 @@ Apple iOS Sideload repo URL (works with Sideloadly, Sidestore, Altstore)
 (add this to sources in your chosen store)
 https://movienight.is/movienight-ios-repo.json
 
-AppDB Market
-https://appdb.to/details/a48d2c947f546f93e93105093373f4b4967d4426
+AppDB (iOS)
+
+https://appdb.to/details/dcf7487fda96c80e014ce17a7607f75779b182bf
+
+AppDB (Apple TV)
+
+https://appdb.to/details/45d31780c2d176c2b0e2bd67eb154ff47cdb783f
