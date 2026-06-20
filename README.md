@@ -9,7 +9,7 @@ https://movienight.is/movienight-Tv-repo.json
 
 Apple iOS Sideload repo URL (works with Sideloadly, Sidestore, Altstore)
 (add this to sources in your chosen store)
-
+https://movienight.is/movienight-ios-Altstore-classic.json
 
 AppDB (iOS)
 
