@@ -3,14 +3,15 @@ Movie Night Web app
 
 https://movienight.is/
 
-Apple TV Sideload repo URL (works with Sideloadly only!)
-(add this to sources in Sideloadly)
-https://movienight.is/movienight-Tv-repo.json
 
 JSON repo links (IOS)
 
 IOS app Altstore Classic sideload repo
 https://movienight.is/movienight-ios-Altstore-classic.json
+
+Apple TV Sideload repo URL (works with Sideloadly only!)
+(add this to sources in Sideloadly)
+https://movienight.is/movienight-Tv-repo.json
 
 AppDB (iOS)
 
