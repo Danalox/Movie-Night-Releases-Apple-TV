@@ -16,6 +16,9 @@ Apple TV Sideload repo URL (works with Sideloadly only!)
 (add this to sources in Sideloadly)
 https://movienight.is/movienight-Tv-repo.json
 
+Android App
+https://github.com/Danalox/Movie-Night-Releases/releases/download/Android/MovieNight-Android.apk
+
 AppDB (iOS)
 
 https://appdb.to/details/dcf7487fda96c80e014ce17a7607f75779b182bf
