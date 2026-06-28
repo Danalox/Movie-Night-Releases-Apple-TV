@@ -26,4 +26,4 @@ https://appdb.to/details/fc3ef7a4317c69d577869390d1485720135709fc
 
 AppDB (Apple TV)
 
-https://appdb.to/details/45d31780c2d176c2b0e2bd67eb154ff47cdb783f
+https://appdb.to/details/b035a3487c14f22bfaf65d92963b59f2bda64291
